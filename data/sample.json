@@ -1,17 +1,20 @@
 [
   {
-    "id": 1,
-    "name": "TN",
-    "is_active": true
+    "Id": 1,
+    "CompanyName": "Belk",
+    "BuildList":["Belk_UAT","Belk_Dev","Belk_Prod"],
+    "Is_active": true
   },
   {
-    "id": 2,
-    "name": "KA",
-    "is_active": true
+    "Id": 2,
+    "CompanyName": "Hot Topic",
+    "BuildList":["Hot_UAT","Hot_Dev","Hot_Prod"],
+    "Is_active": true
   },
-  {
-    "id": 3,
-    "name": "AN",
-    "is_active": true
+ {
+    "Id": 3,
+    "CompanyName": "Tilys",
+    "BuildList":["Tilys_UAT","Tilys_Dev","Tilys_Prod"],
+    "Is_active": true
   }
 ]
