@@ -16,5 +16,11 @@
     "CompanyName": "Tilys",
     "BuildList":["Tilys_UAT","Tilys_Dev","Tilys_Prod"],
     "Is_active": true
+  },
+   {
+    "Id": 4,
+    "CompanyName": "Test Company",
+    "BuildList":["Test_UAT","Test_Dev","Test_Prod"],
+    "Is_active": true
   }
 ]
